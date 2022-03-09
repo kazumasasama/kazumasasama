@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kaz Takai, based in big 🍎
-- 👀 I’m interested in ... Anime, Comics, Fashion, Cafe visit
+- 👋 Hi, I’m Kaz Takai, based in NYC.
+- 👀 I’m interested in ... Anime, Comics, Fashion, Coffee
 - 🌱 I’m currently learning ... Rails and Vue.js
 - 📫 How to reach me ... insta @tkikzms, twitter @nyc_kaz
 
