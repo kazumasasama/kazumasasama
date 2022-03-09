@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kazumasasama
+- 👋 Hi, I’m Kaz Takai, based in big 🍎
 - 👀 I’m interested in ... Anime, Comics, Fashion, Cafe visit
 - 🌱 I’m currently learning ... Rails and Vue.js
 - 📫 How to reach me ... insta @tkikzms, twitter @nyc_kaz
