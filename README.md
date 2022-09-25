@@ -3,7 +3,9 @@
   Ruby on Rails | Vue.js | React | Typescript | Javascript | HTML | CSS
 
 - 👨🏻‍💻 Web Apps
+  
   Booking app [Biznesu](https://biznesu.netlify.app/)
+  
 - 🌱 I’m currently learning ... React Hooks.
 
 - 👀 I’m interested in ... Anime, Comics, Fashion, and Coffee.
