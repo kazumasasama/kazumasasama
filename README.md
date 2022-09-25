@@ -2,9 +2,11 @@
 
   Ruby on Rails | Vue.js | React | Typescript | Javascript | HTML | CSS
 
-- 🌱 I’m currently learning ... Next.js and Typescript
+- 👨🏻‍💻 Web Apps
+  Booking app [Biznesu](https://biznesu.netlify.app/)
+- 🌱 I’m currently learning ... React Hooks.
 
-- 👀 I’m interested in ... Anime, Comics, Fashion, Coffee
+- 👀 I’m interested in ... Anime, Comics, Fashion, and Coffee.
 
 ==================
 - insta @tkikzms
